@@ -76,4 +76,4 @@ Ordem MoSCoW
 
 1. Acompanhar pedido — Must Have
 2. Item indisponível — Must Have
-3. Reportar problema — Should 
+3. Reportar problema — Should Have
