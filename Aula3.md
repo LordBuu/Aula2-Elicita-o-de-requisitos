@@ -31,7 +31,3 @@ ___
 • Usabilidade: O usuário deve conseguir alterar o período de consulta e visualizar o novo resumo em até 3 ações.
 
 ---
-•Resumo
-• História 1: Usabilidade, Eficiência de desempenho e Confiabilidade.
-• História 2: Segurança, Usabilidade e Eficiência de desempenho.
-• História 3: Eficiência de desempenho, Confiabilidade e Usabilidade.
